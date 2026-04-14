@@ -1,4 +1,4 @@
-# docs-as-code-training
+# Docs-as-Code Training
 This repo is reserved for Technical Publications - Structured Upskilling Program.
 ## Overview
 Doc-as-Code stack
